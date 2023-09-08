@@ -32,7 +32,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/mrmostperfect/todo-app.git
 Open the project folder:
 
 bash
