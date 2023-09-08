@@ -32,7 +32,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone gh repo clone mrmostperfect/todo-list-by-using-vanilla-js-by-mrmostperfect
+git clone
 Open the project folder:
 
 bash
